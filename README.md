@@ -1,6 +1,6 @@
-<h1 align="center"> ✨ First Independent HTML/SCSS Project ✨ </h1>
-
 ### 🌐 Demo / Preview
+<h1 align="center"> ✨ First Independent HTML/CSS Project ✨ </h1>
+
 ![preview](assets/preview.png)
 
 ---
@@ -12,7 +12,7 @@ This is one of my very first projects in web development, where I practiced stru
 
 ### 💻 **Technologies Used**
 - **HTML5**: For structuring the layout of the page.
-- **SCSS**: For styling, organization, and reusable components.
+- **CSS**: For styling.
 
 ---
 
@@ -28,12 +28,16 @@ This is one of my very first projects in web development, where I practiced stru
    ```bash
    git clone https://github.com/HUYBERIC/Eric-Maths.git
    cd Eric-Maths
+   ```
+2. Open index.html in your favorite browser to view the project.
+
+<br> 
+<br> 
+<br> 
 
 ---
 
-<h1 align="center"> ✨ Premier projet HTML/SCSS en autonomie ✨ </h1>
-
----
+<h1 align="center"> ✨ Premier projet HTML/CSS en autonomie ✨ </h1>
 
 ### ✏️ **Description**
 Il s'agit de l'un de mes tout premiers projets en développement web, où j'ai pratiqué la structuration des sections en HTML et le stylisme avec SCSS. Ce projet a été réalisé en totale autonomie et servait de maquette pour un futur projet plus ambitieux. Même si cette maquette ne me correspond plus aujourd'hui, elle témoigne de mon niveau après seulement quelques semaines d'apprentissage.
@@ -42,7 +46,7 @@ Il s'agit de l'un de mes tout premiers projets en développement web, où j'ai p
 
 ### 💻 **Technologies utilisées**
 - **HTML5** : Pour structurer la mise en page.
-- **SCSS** : Pour le style, l'organisation et les composants réutilisables.
+- **SCSS** : Pour le style.
 
 ---
 
@@ -58,3 +62,5 @@ Il s'agit de l'un de mes tout premiers projets en développement web, où j'ai p
   ```bash
   git clone https://github.com/HUYBERIC/Eric-Maths.git
   cd Eric-Maths
+  ```
+2. Ouvre index.html dans ton navigateur favori pour voir le projet.
