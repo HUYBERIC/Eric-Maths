@@ -29,7 +29,7 @@ This is one of my very first projects in web development, where I practiced stru
    git clone https://github.com/HUYBERIC/Eric-Maths.git
    cd Eric-Maths
    ```
-2. Open index.html in your favorite browser to view the project.
+2. Open `index.html` in your favorite browser to view the project.
 
 <br> 
 <br> 
@@ -63,4 +63,4 @@ Il s'agit de l'un de mes tout premiers projets en développement web, où j'ai p
   git clone https://github.com/HUYBERIC/Eric-Maths.git
   cd Eric-Maths
   ```
-2. Ouvre index.html dans ton navigateur favori pour voir le projet.
+2. Ouvre `index.html` dans ton navigateur favori pour voir le projet.
